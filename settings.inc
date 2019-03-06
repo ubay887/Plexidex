@@ -9,5 +9,5 @@ $PlexServerIP = '<IPaddr or hostname>';
 $PlexServerPort = 32400;
 $PlexServerToken = '<X-Plex-Token>';
 // See https://support.plex.tv/hc/en-us/articles/204059436-Finding-your-account-token-X-Plex-Token 
-// for more Information 
+// for more Information. 
 ?>
